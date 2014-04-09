@@ -78,3 +78,10 @@ blockquote:before {
     overflow: hidden;
     min-height: 175px;
 }
+.description, .description h4  {
+    text-align: left;
+    color: #ffffff;
+}
+.description a {
+    color: #E9C92E;
+}
