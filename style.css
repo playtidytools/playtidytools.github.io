@@ -87,3 +87,6 @@ blockquote:before {
     padding: 30px 35px 0 45px;
     margin-top: -30px;
 }
+#copyright {
+    color: #000000;
+}
