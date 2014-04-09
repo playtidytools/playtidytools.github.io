@@ -10,9 +10,6 @@ h1 {
     margin-top: 0;
     margin-bottom: 0;
 }
-h4 {
-    text-align: center;
-}
 
 #get-the-app {
     padding: 2em;
@@ -43,7 +40,6 @@ blockquote:before, blockquote:after {
     color: #ccc;
     font-size: 5em;
     line-height: 0.1em;
-    margin: 0 0.1em;
 }
 
 blockquote:before {
@@ -84,4 +80,10 @@ blockquote:before {
 }
 .description a {
     color: #E9C92E;
+}
+#they-say {
+    background-image: url("img/speech.png");
+    background-repeat: no-repeat;
+    padding: 30px 35px 0 45px;
+    margin-top: -30px;
 }
