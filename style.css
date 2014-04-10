@@ -92,10 +92,15 @@ blockquote:before {
 #copyright {
     color: #000000;
 }
+.orbit-container {
+    margin-top: 20px;
+}
 #video iframe{
     max-width: 970px;
     max-height: 604px;
     width: 100%;
     height: 100%;
-    margin-bottom: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
