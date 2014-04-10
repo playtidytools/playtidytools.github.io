@@ -31,7 +31,7 @@ blockquote {
     display: block;
     border-left: 0;
     padding: 0;
-    margin-bottom: 2em;
+    margin-bottom: 1.6em;
     font-style: italic;
 }
 blockquote:before, blockquote:after {
