@@ -65,9 +65,6 @@ blockquote:before {
 .hidden {
     display: none;
 }
-#screenshots img {
-    height: 606px;
-}
 .title-banner {
     background-color: #005A8C;
 }
