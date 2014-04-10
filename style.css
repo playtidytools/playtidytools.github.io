@@ -84,7 +84,7 @@ blockquote:before {
 #they-say {
     background-image: url("img/speech.png");
     background-repeat: no-repeat;
-    padding: 30px 35px 0 45px;
+    padding: 30px 45px 0 45px;
     margin-top: -30px;
 }
 #copyright {
