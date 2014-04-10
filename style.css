@@ -11,11 +11,11 @@ h1 {
     margin-bottom: 0;
 }
 
-#get-the-app {
+.get-the-app {
     padding: 2em;
     margin-bottom: 25px;
 }
-#get-the-app img {
+.get-the-app img {
     display: block;
     margin: auto;
 }
