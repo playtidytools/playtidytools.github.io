@@ -87,6 +87,7 @@ blockquote:before {
     width: 350px;
 }
 #copyright {
+    text-align: center;
     color: #000000;
 }
 .orbit-container {
@@ -100,4 +101,7 @@ blockquote:before {
     position: absolute;
     top: 0;
     left: 0;
+}
+footer {
+    text-align: center;
 }
