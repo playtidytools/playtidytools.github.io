@@ -105,3 +105,9 @@ blockquote:before {
 footer {
     text-align: center;
 }
+.press {
+    font-size: 1.2em;
+}
+#press {
+    color: black;
+}
