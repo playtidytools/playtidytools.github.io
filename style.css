@@ -109,5 +109,8 @@ footer {
     font-size: 1.2em;
 }
 #press {
-    color: black;
+    color: white;
+}
+#press b, #press h1 {
+    color: #ffe;
 }
